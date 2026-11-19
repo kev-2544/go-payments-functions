@@ -2,7 +2,7 @@ package payment
 
 import (
 	"errors"
-	"go-functions/validation"
+	"go-functions/internal/validation"
 )
 
 const feePercent = 2

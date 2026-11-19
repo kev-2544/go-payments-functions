@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-functions/payment"
+	"go-functions/internal/payment"
 )
 
 func main() {
